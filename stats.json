@@ -1,0 +1,37 @@
+{
+  "total_starts": {
+    "uses": 11,
+    "last_seen": null,
+    "name": null
+  },
+  "per_user": {
+    "uses": 0,
+    "last_seen": null,
+    "name": null
+  },
+  "7826322761": {
+    "uses": 19,
+    "last_seen": "2025-10-25 00:55:16",
+    "name": "."
+  },
+  "8113358440": {
+    "uses": 4,
+    "last_seen": "2025-10-24 03:32:22",
+    "name": "Cryptan"
+  },
+  "1331621146": {
+    "uses": 1,
+    "last_seen": "2025-10-24 04:07:18",
+    "name": "stophittingyourself."
+  },
+  "6365565501": {
+    "uses": 3,
+    "last_seen": "2025-10-24 04:55:20",
+    "name": "ㅤПереводчикОнлайн"
+  },
+  "5480113269": {
+    "uses": 2,
+    "last_seen": "2025-10-24 05:06:20",
+    "name": "Kosmos"
+  }
+}
